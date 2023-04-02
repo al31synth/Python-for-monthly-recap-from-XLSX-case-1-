@@ -10,7 +10,10 @@ Program Flow
 1. Input : Report Period
 2. Import Files : all XLSX Branch Report data in period 
 3. Method:
-    a. Read set of cell values from current branch, loop for next branch
-    b. Append proccess (3.a.) to dataframe
-    c. Drop duplicates, based on latest modified
-    d. Export to XLSX
+    (a) Read set of cell values from current branch, loop for next branch
+    (b) Append proccess (3.a.) to dataframe
+    (c) Drop duplicates, based on latest modified
+    (d) Export to XLSX
+    
+    
+akmalazua@gmail.com
